@@ -1,0 +1,9 @@
+[submodule "Graph"]
+	path = Graph
+	url = https://github.com/DMurphy-Projects/Graph
+[submodule "FileVariable"]
+	path = FileVariable
+	url = https://github.com/DMurphy-Projects/FileVariable
+[submodule "ForceDirectedSimulation"]
+	path = ForceDirectedSimulation
+	url = https://github.com/DMurphy-Projects/ForceDirectedSimulation
